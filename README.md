@@ -1,2 +1,2 @@
-# react_stylings
+# react_styling
 Created with CodeSandbox
